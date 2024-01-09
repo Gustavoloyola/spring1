@@ -10,4 +10,5 @@ public class Ejemindata2Application {
 		SpringApplication.run(Ejemindata2Application.class, args);
 	}
 
+
 }
